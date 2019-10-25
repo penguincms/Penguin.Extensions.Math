@@ -1,0 +1,17 @@
+Microsoft (R) Build Engine version 16.3.0+0f4c62fea for .NET Core
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Restore completed in 24.54 ms for C:\Penguin\Repositories\Penguin.Extensions.Math\Penguin.Extensions.Math.Local.csproj.
+  Penguin.Extensions.Math.Local -> C:\Penguin\Repositories\Penguin.Extensions.Math\bin\Release\netstandard2.0\Penguin.Extensions.Math.Local.dll
+  Successfully created package 'C:\Penguin\Repositories\Penguin.Extensions.Math\bin\Release\Penguin.Extensions.Math.Local.1.0.1.nupkg'.
+C:\Program Files\dotnet\sdk\3.0.100\Sdks\NuGet.Build.Tasks.Pack\build\NuGet.Build.Tasks.Pack.targets(198,5): warning NU5048: The 'PackageIconUrl'/'iconUrl' element is deprecated. Consider using the 'PackageIcon'/'icon' element instead. Learn more at https://aka.ms/deprecateIconUrl [C:\Penguin\Repositories\Penguin.Extensions.Math\Penguin.Extensions.Math.Local.csproj]
+  Successfully created package 'C:\Penguin\Repositories\Penguin.Extensions.Math\bin\Release\Penguin.Extensions.Math.Local.1.0.1.snupkg'.
+
+Build succeeded.
+
+C:\Program Files\dotnet\sdk\3.0.100\Sdks\NuGet.Build.Tasks.Pack\build\NuGet.Build.Tasks.Pack.targets(198,5): warning NU5048: The 'PackageIconUrl'/'iconUrl' element is deprecated. Consider using the 'PackageIcon'/'icon' element instead. Learn more at https://aka.ms/deprecateIconUrl [C:\Penguin\Repositories\Penguin.Extensions.Math\Penguin.Extensions.Math.Local.csproj]
+    1 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:02.25
+

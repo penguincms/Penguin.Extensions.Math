@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <doc>
     <assembly>
-        <name>Penguin.Extensions.Math.Local</name>
+        <name>Penguin.Extensions.Math</name>
     </assembly>
     <members>
         <member name="M:Penguin.Math.Extensions.DecimalExtensions.Between(System.Decimal,System.Decimal,System.Decimal)">

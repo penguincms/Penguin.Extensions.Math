@@ -4,6 +4,8 @@
     <PackageProjectUrl>https://github.com/penguincms/Penguin.Extensions.Math</PackageProjectUrl>
     <Version>1.0.1</Version>
     <Description>Simple math extensions for numeric values. Probably not high performance</Description>
+    <AssemblyName>Penguin.Extensions.Math</AssemblyName>
+    <RootNamespace>Penguin.Extensions.Math</RootNamespace>
   </PropertyGroup>
   <Import Project="Penguin.Projects.Shared\Penguin.Projects.Shared.csproj" />
 </Project>

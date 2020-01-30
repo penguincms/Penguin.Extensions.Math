@@ -6,6 +6,7 @@
     <Description>Simple math extensions for numeric values. Probably not high performance</Description>
     <AssemblyName>Penguin.Extensions.Math</AssemblyName>
     <RootNamespace>Penguin.Extensions.Math</RootNamespace>
+    <DocumentationFile>Penguin.Extensions.Math.xml</DocumentationFile>
   </PropertyGroup>
   <Import Project="Penguin.Projects.Shared\Penguin.Projects.Shared.csproj" />
 </Project>

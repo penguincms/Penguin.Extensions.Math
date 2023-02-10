@@ -4,7 +4,7 @@
         <name>Penguin.Extensions.Math</name>
     </assembly>
     <members>
-        <member name="M:Penguin.Math.Extensions.DecimalExtensions.Between(System.Decimal,System.Decimal,System.Decimal)">
+        <member name="M:Penguin.Extensions.Math.Extensions.DecimalExtensions.Between(System.Decimal,System.Decimal,System.Decimal)">
             <summary>
             Inclusive/Exclusive bounds check for an decimal
             </summary>
@@ -13,7 +13,7 @@
             <param name="b">The upper exclusive bounds</param>
             <returns>Whether or not the int falls between the values</returns>
         </member>
-        <member name="M:Penguin.Math.Extensions.FloatExtensions.Between(System.Single,System.Single,System.Single)">
+        <member name="M:Penguin.Extensions.Math.Extensions.FloatExtensions.Between(System.Single,System.Single,System.Single)">
             <summary>
             Inclusive/Exclusive bounds check for an float
             </summary>
@@ -22,7 +22,7 @@
             <param name="b">The upper exclusive bounds</param>
             <returns>Whether or not the int falls between the values</returns>
         </member>
-        <member name="M:Penguin.Math.Extensions.IntExtensions.Between(System.Int32,System.Int32,System.Int32)">
+        <member name="M:Penguin.Extensions.Math.Extensions.IntExtensions.Between(System.Int32,System.Int32,System.Int32)">
             <summary>
             Inclusive/Exclusive bounds check for an int
             </summary>
@@ -31,7 +31,7 @@
             <param name="b">The upper exclusive bounds</param>
             <returns>Whether or not the int falls between the values</returns>
         </member>
-        <member name="M:Penguin.Math.Extensions.ULongExtensions.Between(System.UInt64,System.UInt64,System.UInt64)">
+        <member name="M:Penguin.Extensions.Math.Extensions.ULongExtensions.Between(System.UInt64,System.UInt64,System.UInt64)">
             <summary>
             Inclusive/Exclusive bounds check for an ulong
             </summary>

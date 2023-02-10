@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Penguin.Math.Extensions
+﻿namespace Penguin.Extensions.Math.Extensions
 {
 #pragma warning disable CS1591 // Missing XML comment for publicly visible type or member
+
     public static class ULongExtensions
 #pragma warning restore CS1591 // Missing XML comment for publicly visible type or member
     {

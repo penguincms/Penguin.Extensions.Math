@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Penguin.Math.Extensions
+﻿namespace Penguin.Extensions.Math.Extensions
 {
 #pragma warning disable CS1591 // Missing XML comment for publicly visible type or member
+
     public static class DecimalExtensions
 #pragma warning restore CS1591 // Missing XML comment for publicly visible type or member
     {
@@ -15,7 +12,7 @@ namespace Penguin.Math.Extensions
         /// <param name="a">The lower inclusive bounds</param>
         /// <param name="b">The upper exclusive bounds</param>
         /// <returns>Whether or not the int falls between the values</returns>
-        public static bool Between(this Decimal x, Decimal a, Decimal b)
+        public static bool Between(this decimal x, decimal a, decimal b)
         {
             return x >= a && x < b;
         }
